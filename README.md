@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveenkumarreddyp
+- 👋 Hi, I’m Naveen Kumar Reddy P
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning HTML,CSS and Java script
 - 💞️ I’m looking to collaborate on web development projects
